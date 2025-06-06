@@ -1,2 +1,2 @@
 # tp_cloud_computing
-trabajo practico de cloud computing
+programa sencillo para agregar tareas y marcarlas una vez ya realizadas
